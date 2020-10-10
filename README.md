@@ -8,10 +8,8 @@ You can see what I am currently up to
 
 
 - 🔭 I’m currently working on developing proficiency in general programming
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with collaborating for cool projects
+- 🌱 I’m currently learning a lot of general stuff
+- 👯 I’m looking to collaborate on cool projects.
 - 💬 Ask me about why i did Btech ;)
-- 📫 How to reach me: Well Depends on why do u want to do so
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: Well Depends on why do u want to do so :) :)
+
