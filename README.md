@@ -1,4 +1,4 @@
-![Hello,folks](https://github.com/nachiketaraina/nachiketaraina/blob/master/wave.gif?raw=true)
+# Hello, folks! <img src="https://raw.githubusercontent.com/nachiketaraina/nachiketaraina/master/wave.gif">
 <!--
 **nachiketaraina/nachiketaraina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 You can see what I am currently up to 
