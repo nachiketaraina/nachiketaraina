@@ -1,7 +1,8 @@
-# Hello, folks! <img src="https://github.com/nachiketaraina/nachiketaraina/blob/main/wave.gif">
+# Hello, folks! <img src="https://github.com/nachiketaraina/nachiketaraina/blob/main/wave.gif" width="30px">
+Hey,my name is nachiketa raina , i am venturing in different fields of computer science , trying to as much as i can  
 <!--
 **nachiketaraina/nachiketaraina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-You can see what I am currently up to 
+Things I am currently up to 
 
 
 - 🔭 I’m currently working on developing proficiency in general programming
