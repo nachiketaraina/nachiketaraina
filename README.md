@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://github.com/nachiketaraina/nachiketaraina/blob/main/wave.gif" width="30px">
-Hey,my name is nachiketa raina , i am venturing in different fields of computer science , trying to as much as i can  
+Hey,my name is nachiketa raina , i am venturing in different fields of computer science , trying to learn and grasp as much as i can  
 <!--
 **nachiketaraina/nachiketaraina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 Things I am currently up to 
